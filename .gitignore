@@ -1,0 +1,11 @@
+00-test/
+*.pkl
+*.bin
+bert-base-chinese/
+*.pt
+.env
+.idea/
+__pycache__/
+*.py[c|o|d]
+.venv/
+venv/
